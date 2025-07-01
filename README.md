@@ -1,5 +1,6 @@
 ## 👋 About Me
 - 🌐 Languages: English, 中文
+- 📫 E-mail: AhiruNeko@outlook.com
 - 🎮 Games: Minecraft, Stardew Valley, Turing Complete
 
 ## 🛠️ Skills
