@@ -1,3 +1,5 @@
+![:name](https://count.getloli.com/get/@AhiruNeko)
+
 ## 👋 About Me
 - 🌐 Languages: English, 中文
 - 📫 E-mail: AhiruNeko@outlook.com
