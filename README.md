@@ -12,58 +12,58 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=c" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=cs" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=windows" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60"/>
-  <img width="12" />
+  <img width="10" />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pycharm" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=idea" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=clion" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=rider" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=webstorm" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=anaconda" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ae" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=ps" height="60"/>
-  <img width="12" />
+  <img width="10" />
   <img src="https://skillicons.dev/icons?i=pr" height="60"/>
 </div>
 
