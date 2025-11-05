@@ -21,6 +21,12 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="60"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60"/>
@@ -28,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=anaconda" height="60"/>
   <img width="12" />
 </div>
 
@@ -44,9 +48,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rider" height="60"/>
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60"/>
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="60"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=anaconda" height="60"/>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
   <img width="12" />
