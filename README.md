@@ -3,7 +3,7 @@
 
 ## 👋 About Me
 - 🌐 Languages: English, 中文
-- 📫 E-mail: AhiruNeko@outlook.com
+- 📫 E-mail: AhiruNeko47@gmail.com
 - 🎮 Games: Minecraft, Stardew Valley, Turing Complete
 
 ## 🛠️ Skills & Tools
@@ -28,6 +28,8 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="60"/>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=windows" height="60"/>
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60"/>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="60"/>
   <img width="10" />
