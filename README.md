@@ -87,10 +87,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhiruNeko/AhiruNeko/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhiruNeko&layout=compact" width="42%" style="display:inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AhiruNeko&count_private=true&show_icons=true" width="50%" style="display:inline-block;" />
-</p>
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=ahiruneko) ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ahiruneko&langs_count=3)
 
 
 
