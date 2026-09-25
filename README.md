@@ -19,8 +19,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60"/>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60"/>
-  <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="60"/>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="60"/>
@@ -35,8 +33,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=github" height="60"/>
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60"/>
-  <img width="10" />
 </div>
 
 ###
@@ -47,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=idea" height="60"/>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=clion" height="60"/>
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=rider" height="60"/>
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=webstorm" height="60"/>
   <img width="10" />
